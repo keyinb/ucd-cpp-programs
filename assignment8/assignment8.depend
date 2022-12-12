@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1636997690 source:c:\users\cianb\onedrive\cian belton\college\3rd year engineering\semester 1\comp sci 2\assignment8\freighttrain8.cpp
+	<iostream>
+	"Vehicle.h"
+	"StockItem.h"
+	"train8.h"
+	"freighttrain8.h"
+
+1636993911 c:\users\cianb\onedrive\cian belton\college\3rd year engineering\semester 1\comp sci 2\assignment8\vehicle.h
+
+1636994056 c:\users\cianb\onedrive\cian belton\college\3rd year engineering\semester 1\comp sci 2\assignment8\stockitem.h
+
+1636997444 c:\users\cianb\onedrive\cian belton\college\3rd year engineering\semester 1\comp sci 2\assignment8\train8.h
+
+1636997444 c:\users\cianb\onedrive\cian belton\college\3rd year engineering\semester 1\comp sci 2\assignment8\freighttrain8.h
+
+1636993911 source:c:\users\cianb\onedrive\cian belton\college\3rd year engineering\semester 1\comp sci 2\assignment8\vehicle.cpp
+	<iostream>
+	"Vehicle.h"
+
+1636997139 source:c:\users\cianb\onedrive\cian belton\college\3rd year engineering\semester 1\comp sci 2\assignment8\stockitem.cpp
+	<iostream>
+	"StockItem.h"
+
+1636997720 source:c:\users\cianb\onedrive\cian belton\college\3rd year engineering\semester 1\comp sci 2\assignment8\train8.cpp
+	<iostream>
+	"Vehicle.h"
+	"StockItem.h"
+	"train8.h"
+
+1636997743 source:c:\users\cianb\onedrive\cian belton\college\3rd year engineering\semester 1\comp sci 2\assignment8\main.cpp
+	<iostream>
+	"Vehicle.h"
+	"StockItem.h"
+	"train8.h"
+	"freighttrain8.h"
+	<fstream>
+
