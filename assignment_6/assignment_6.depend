@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1635790829 source:c:\users\cianb\onedrive\cian belton\college\3rd year engineering\semester 1\comp sci 2\assignment_6\main.cpp
+	<iostream>
+	"money.h"
+
+1635786617 c:\users\cianb\onedrive\cian belton\college\3rd year engineering\semester 1\comp sci 2\assignment_6\money.h
+	<iostream>
+
+1635790212 source:c:\users\cianb\onedrive\cian belton\college\3rd year engineering\semester 1\comp sci 2\assignment_6\money.cpp
+	<iostream>
+	"money.h"
+
