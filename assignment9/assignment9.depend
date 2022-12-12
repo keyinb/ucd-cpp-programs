@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1637613881 source:c:\users\cianb\onedrive\cian belton\college\3rd year engineering\semester 1\comp sci 2\assignment9\equilateral.cpp
+	<iostream>
+	<math.h>
+	"Point.h"
+	"Line.h"
+	"Triangle.h"
+	"Equilateral.h"
+
+1637587376 c:\users\cianb\onedrive\cian belton\college\3rd year engineering\semester 1\comp sci 2\assignment9\point.h
+
+1637587487 c:\users\cianb\onedrive\cian belton\college\3rd year engineering\semester 1\comp sci 2\assignment9\line.h
+
+1637613256 c:\users\cianb\onedrive\cian belton\college\3rd year engineering\semester 1\comp sci 2\assignment9\triangle.h
+
+1637613256 c:\users\cianb\onedrive\cian belton\college\3rd year engineering\semester 1\comp sci 2\assignment9\equilateral.h
+
+1637587487 source:c:\users\cianb\onedrive\cian belton\college\3rd year engineering\semester 1\comp sci 2\assignment9\line.cpp
+	"Point.h"
+	"Line.h"
+	<math.h>
+
+1637587487 source:c:\users\cianb\onedrive\cian belton\college\3rd year engineering\semester 1\comp sci 2\assignment9\point.cpp
+	"Point.h"
+
+1637613881 source:c:\users\cianb\onedrive\cian belton\college\3rd year engineering\semester 1\comp sci 2\assignment9\triangle.cpp
+	<iostream>
+	<math.h>
+	"Point.h"
+	"Line.h"
+	"Triangle.h"
+
+1637615224 source:c:\users\cianb\onedrive\cian belton\college\3rd year engineering\semester 1\comp sci 2\assignment9\main.cpp
+	<iostream>
+	<fstream>
+	"Point.h"
+	"Line.h"
+	"Triangle.h"
+	"Equilateral.h"
+
